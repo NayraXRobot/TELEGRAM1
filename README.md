@@ -1,16 +1,16 @@
 
 <h2 align="center">
-    ──「E𝐄𝗌ρ𝗋ⱺ 𝐌ᥙsiᥴ [ ɴᴏ ᴀᴅʂ ] 🕊」──
+    ──「 𝕋𝖾𝗅𝖾𝗀𝗋𝖺𝗆 ♬⁩ 𝖬𝗎𝗌𝗂𝖼 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/172fecd14841a2b780448.jpg">
+  <img src="https://telegra.ph/file/69623b2f2038ee17ef20d.jpg">
 </p>
 
 <p align="center">
-<a href="https://github.com/TeamEspro/EsproMusicBot/stargazers"><img src="https://img.shields.io/github/stars/TeamEspro/EsproMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/TeamEspro/EsproMusicBot/network/members"> <img src="https://img.shields.io/github/forks/TeamEspro/EsproMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/TeamEspro/EsproMusicBot/blob/ritik/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/NayraXRobot/TELEGRAM1/stargazers"><img src="https://img.shields.io/github/stars/TeamEspro/EsproMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/NayraXRobot/TELEGRAM1/network/members"> <img src="https://img.shields.io/github/forks/TeamEspro/EsproMusicBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/NayraXRobot/TELEGRAM1/blob/ritik/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://github.com/TeamEspro/EsproMusicBot/commits/EsproMusicBot"> <img src="https://img.shields.io/github/last-commit/TeamEspro/EsproMusicBot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
@@ -21,13 +21,13 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TeamEspro/EsproMusicBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/NayraXRobot/TELEGRAM1"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/TeamEspro/EsproMusicBot/blob/ritik/sample.env)
+- Get your [Necessary Variables](https://github.com/NayraXRobot/TELEGRAM1/blob/ritik/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -39,7 +39,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/TeamEspro/EsproMusicBot && cd EsproMusicBot`
+`git clone https://github.com/NayraXRobot/TELEGRAM1 && cd TELEGRAM1`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -60,11 +60,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/EsproSupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/TELE_SONG_BOT"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/EsproUpdate"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/TELE_SONG_BOT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 
